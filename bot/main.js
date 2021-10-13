@@ -303,8 +303,13 @@ function voz(texto) {
     }, 4000);
     
 
+    
+    mensaje.voice = voices ["2"];
 
-
-    mensaje.voice = voices[2];
+   
     window.speechSynthesis.speak(mensaje);
 }
+
+
+
+
