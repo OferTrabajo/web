@@ -337,6 +337,14 @@ margin-bottom: 1000px;
 background-size: 100%;
        
 }
+
+.banner2{
+	background:url(../images/banfon.jpg) no-repeat;
+	position:relative;
+background-size: 100%;
+       
+}
+
 .main_banner_area{
 	padding-top: 150px;
 }
