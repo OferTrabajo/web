@@ -39,13 +39,12 @@ const comandos = {
         voz("Hola!, espero que estes bien");
     },
 
+   
     "preséntate": () => {
         voz("Hola a todos!, me llamo Ofer trax y soy un robot publicitario desarrollado por ofertrabajo");
     },
 
-    "Qué es offer trabajo": () => {
-        voz("Ofer Trabajo es una aplicacion movil la cual esta desarrollada para bajar la taza de desempleo en medellin");
-    },
+
 
    
 
@@ -206,9 +205,7 @@ const comandos = {
     },
 
 
-    "Cómo estás": () => {
-        voz('mejor que ayer, espero que usted tambien lo estes')
-    },
+
 
     "Te presento a *nombre": nombre => {
         voz("Hola" + nombre +", mi nombre es ofertax, es un placer conocerte");
@@ -216,9 +213,8 @@ const comandos = {
 
     // LLAMADA A LA ACCIÓN
     
-    "Ofertas": () => {
-        voz("aquí estoy!");
-    },
+   
+  
 
     "Hey": () => {
         voz("holaa");
@@ -228,12 +224,66 @@ const comandos = {
         voz("Hola!, espero que estes bien");
     },
 
+    
+
+   
+
     "Me puedes ayudar": () => {
         voz("yes, yes, yes, yes claro que yes");
     },
 
 
    
+
+
+
+"Hola ofertas Cómo estás": () => {
+    voz("Hola!, yo estoy muy bien");
+},
+
+"ofertas Qué es el trabajo": () => {
+    voz("Kimberly, ofertrabajo es un portal entre las empresas y sus usuarios, de esta manera tú podrás conseguir empleo de una manera más fácil y rápida");
+},
+
+"Qué es Omar trabajo": () => {
+    voz("Kimberly, ofertrabajo es un portal entre las empresas y sus usuarios, de esta manera tú podrás conseguir empleo de una manera más fácil y rápida");
+},
+
+"Qué es Uber trabajo": () => {
+    voz("Kimberly, ofertrabajo es un portal entre las empresas y sus usuarios, de esta manera tú podrás conseguir empleo de una manera más fácil y rápida");
+},
+
+
+"Qué es offer trabajo": () => {
+    voz("Kimberly, ofertrabajo es un portal entre las empresas y sus usuarios, de esta manera tú podrás conseguir empleo de una manera más fácil y rápida ");
+},
+
+"cómo descargo la app": () => {
+    voz("Daniela! La app es muy sencilla de descargar, por medio de un link o código QR el cuál podrás adquirir desde tú dispositivo móvil ");
+},
+
+"cómo puedo iniciar sesión en la app": () => {
+    voz("Solo debes poner tu numero o correo y crear tu contraseña para poder tener tu cuenta en nuestra plataforma.");
+},
+
+"ofertas Cómo puedo iniciar sesión": () => {
+    voz("Solo debes poner tu numero o correo y crear tu contraseña para poder tener tu cuenta en nuestra plataforma.");
+},
+
+
+
+
+"Cómo estás": () => {
+    voz("Hola!, yo estoy muy bien");
+},
+
+
+
+
+
+
+
+
 
 
     // Bobadas
