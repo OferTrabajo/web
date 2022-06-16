@@ -113,7 +113,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #d05165; }
+  color: #51d097; }
 
 .btn-group-lg > .btn, .btn-lg {
   padding: 1rem; }
@@ -157,7 +157,7 @@ a:hover {
   color: #FC665F; }
 
 a {
-  color: #f15e75; }
+  color: rgb(0, 101, 138); }
 
 .fs-40 {
   font-size: 40px; }
