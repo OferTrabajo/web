@@ -116,7 +116,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #51d097; }
+  color: #65c89f; }
 
 .btn-group-lg > .btn, .btn-lg {
   padding: 1rem; }
@@ -478,6 +478,11 @@ footer {
   
   .about span {
     font-size: 13px;
+    color: #fff;
+  }
+
+  .fecha span {
+    font-size: 10px;
     color: #fff;
   }
   
